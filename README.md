@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developer from Brazil.</h3>
 
 <br/>
-<br/>
 
 <img align="center" src="https://cdna.artstation.com/p/assets/images/images/008/437/908/original/hayley-h-salya.gif?1512759839" alt="cozy afternoon with coffe pixel art"/>
 
