@@ -12,19 +12,31 @@
   
   - 🌱 I’m currently learning: **Flutter**
   
-  - 🔭 I’m currently working on: **[Backend developer on the SigAMAES project](https://labes.inf.ufes.br/projetos/sigamaes/)**
+  - 🔭 I’m currently working on: [Backend developer on the SigAMAES project](https://labes.inf.ufes.br/projetos/sigamaes/)
   
   - 💬 Ask me about: **React, Vue, Express, RESTful APIs**
   
-  - 📫 How to reach me: **mateussartorio39@gmail.com**
+  - 📫 How to reach me: mateussartorio39@gmail.com
   
   - 📄 Know about my experiences: [LinkedIn](linkedin.com/in/mateus-sartorio-9609281a1)
   
-  - ⚡ Fun fact about me: **I used to have a YouTube channel where I would post tutorials of Raft (the videogame).**
+  - ⚡ Fun fact about me: I used to have a YouTube channel where I would post tutorials of Raft (the videogame).
 </div>
 
 <br/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql" /><br>
+</div>
+
+<br/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<br>
 
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-sartorio&show_icons=true&theme=dark&locale=en&layout=compact" alt="mateussartorio" /></p>
