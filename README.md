@@ -9,17 +9,18 @@
 <br/>
 
 <div>
-  - 🔭 I’m currently working on: **SIGAMAES BACKEND**
   
   - 🌱 I’m currently learning: **Flutter**
+  
+  - 🔭 I’m currently working on: **[Backend developer on the SigAMAES project](https://labes.inf.ufes.br/projetos/sigamaes/)**
   
   - 💬 Ask me about: **React, Vue, Express, RESTful APIs**
   
   - 📫 How to reach me: **mateussartorio39@gmail.com**
   
-  - 📄 Know about my experiences: [linkedin.com/in/mateus-sartorio-9609281a1](linkedin.com/in/mateus-sartorio-9609281a1)
+  - 📄 Know about my experiences: [LinkedIn](linkedin.com/in/mateus-sartorio-9609281a1)
   
-  - ⚡ Fun fact: **I used to have a YouTube channel where I would post tutorials of Raft (the videogame).**
+  - ⚡ Fun fact about me: **I used to have a YouTube channel where I would post tutorials of Raft (the videogame).**
 </div>
 
 <br/>
