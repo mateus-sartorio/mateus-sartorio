@@ -18,7 +18,7 @@
   
   - 📫 How to reach me: mateussartorio39@gmail.com
   
-  - 📄 Know about my experiences: ![LinkedIn](linkedin.com/in/mateus-sartorio-9609281a1)
+  - 📄 Know about my experiences: ![LinkedIn](https://linkedin.com/in/mateus-sartorio-9609281a1)
   
   - ⚡ Fun fact about me: I used to have a YouTube channel where I would post tutorials of Raft (the videogame).
 </div>
