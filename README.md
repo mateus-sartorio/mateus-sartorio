@@ -10,15 +10,15 @@
 
 <div>
   
-  - 🌱 I’m currently learning: **Flutter**
+  - 🌱 I’m currently learning: **Spring Boot** and **Spring Security**
   
-  - 🔭 I’m currently working on: ![Backend developer on the SigAMAES project](https://labes.inf.ufes.br/projetos/sigamaes/)
+  - 🔭 I’m currently working on: [Backend developer on the SigAMAES project](https://labes.inf.ufes.br)
   
   - 💬 Ask me about: **React, Vue, Express, RESTful APIs**
   
   - 📫 How to reach me: mateussartorio39@gmail.com
   
-  - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mateus-sartorio-9609281a1/overlay/contact-info/)
+  - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mateus-sartorio-9609281a1)
   
   - ⚡ Fun fact about me: I used to have a YouTube channel where I would post tutorials of Raft (the videogame).
 </div>
